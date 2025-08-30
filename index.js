@@ -8,7 +8,3 @@ function sayName(name){
 function isAbove18(){
     return age>=18
 }
-
-function del(){
-    console.log("Want to revert this code")
-}

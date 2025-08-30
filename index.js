@@ -1,4 +1,4 @@
-const name="Nirja"
+const name="Nija Patel"
 const age=20
 
 function sayName(name){
